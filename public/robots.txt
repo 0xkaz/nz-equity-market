@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nz-equity.0xkaz.com/sitemap.xml
